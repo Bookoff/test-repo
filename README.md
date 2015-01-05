@@ -1,4 +1,4 @@
 test-repo
 =========
 
-### this is test repositary
+### this is test repository
